@@ -6,7 +6,6 @@ https://euler.jakumo.org/problems/view/33.html
 """
 
 def solution(i,j):
-    i/j
     istr=str(i)
     jstr=str(j)
 
